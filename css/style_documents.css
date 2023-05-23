@@ -175,7 +175,7 @@ p{
 .header{
     background: radial-gradient(#000000,#21262b);
     position:absolute; 
-    height: 340rem; 
+    height: 400rem; 
     width:100%; 
     
 }
@@ -257,25 +257,6 @@ p{
 
 
 
-
-    .box3{
-        width: 80%;
-        height: 100%;
-        border: 1px solid #FAB617;
-        border-radius: 40px;
-        background-color: hsl(0 0% 0% / 0.5);
-        margin: 160% auto 5% auto;
-        }
-    
-    .box3 p{
-        text-align: left;
-        padding: 5% 5%;
-        font-size: 100%;
-        color:#fff;
-    }
-    .box3 a{
-        font-size: 20px;
-    }  
     
     
     .box4{
@@ -284,7 +265,7 @@ p{
         border: 1px solid #FAB617;
         border-radius: 40px;
         background-color: hsl(0 0% 0% / 0.5);
-        margin: 10% auto 5% auto;
+        margin: 160% auto 5% auto;
         }
     
     .box4 p{
@@ -321,13 +302,22 @@ p{
 
 
 
+    .title2{
+        font-size: 30px;
+        margin-top: 15%;
+    }
+
+
+
+
+
     .box6{
         width: 80%;
         height: 100%;
         border: 1px solid #FAB617;
         border-radius: 40px;
         background-color: hsl(0 0% 0% / 0.5);
-        margin: 10% auto 20% auto;
+        margin: 5% auto 10% auto;
         }
     
     .box6 p{
@@ -342,8 +332,119 @@ p{
 
 
 
+    .box7{
+        width: 80%;
+        height: 100%;
+        border: 1px solid #FAB617;
+        border-radius: 40px;
+        background-color: hsl(0 0% 0% / 0.5);
+        margin: 0% auto 10% auto;
+        }
+    
+    .box7 p{
+        text-align: left;
+        padding: 5% 5%;
+        font-size: 100%;
+        color:#fff;
+    }
+    .box7 a{
+        font-size: 20px;
+    } 
 
 
+
+
+    .box8{
+        width: 80%;
+        height: 100%;
+        border: 1px solid #FAB617;
+        border-radius: 40px;
+        background-color: hsl(0 0% 0% / 0.5);
+        margin: 0% auto 10% auto;
+        }
+    
+    .box8 p{
+        text-align: left;
+        padding: 5% 5%;
+        font-size: 100%;
+        color:#fff;
+    }
+    .box8 a{
+        font-size: 20px;
+    } 
+
+
+    .box9{
+        width: 80%;
+        height: 100%;
+        border: 1px solid #FAB617;
+        border-radius: 40px;
+        background-color: hsl(0 0% 0% / 0.5);
+        margin: 0% auto 10% auto;
+        }
+    
+    .box9 p{
+        text-align: left;
+        padding: 5% 5%;
+        font-size: 100%;
+        color:#fff;
+    }
+    .box9 a{
+        font-size: 20px;
+    } 
+
+
+
+
+
+    .reddit1 img{
+        width: 60%;
+        height: auto;
+        margin: 0 0 0 20%; 
+      
+    }    
+
+
+
+    .box10{
+        width: 80%;
+        height: 100%;
+        border: 1px solid #FAB617;
+        border-radius: 40px;
+        background-color: hsl(0 0% 0% / 0.5);
+        margin: 35% auto 10% auto;
+        }
+    
+    .box10 p{
+        text-align: left;
+        padding: 5% 5%;
+        font-size: 100%;
+        color:#fff;
+    }
+    .box10 a{
+        font-size: 20px;
+    } 
+
+
+
+
+    .reddit2 img{
+        width: 60%;
+        height: auto;
+        margin: 0 0 0 20%; 
+      
+    } 
+    .google1 img{
+        width: 40%;
+        height: auto;
+        margin: 10% 0 10% 30%; 
+      
+    } 
+
+
+
+
+    
 .container2 {
     column-gap: 5px;
     padding: 4rem 0rem 0 0rem;
