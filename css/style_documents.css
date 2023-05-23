@@ -173,7 +173,7 @@ p{
 
 
 .header{
-    background: radial-gradient(#000000,#21262b);
+    background: #000;
     position:absolute; 
     height: 400rem; 
     width:100%; 
